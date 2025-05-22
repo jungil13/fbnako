@@ -5,7 +5,7 @@
         <div class="flex items-center space-x-2">
             <img src="https://cdn.freebiesupply.com/logos/large/2x/facebook-logo-2019.png" alt="Logo"
                 class="w-10 h-10" />
-            <span class="text-blue-600 text-xl font-bold">facebook</span>
+            <span class="text-blue-600 text-xl font-bold">Portfolio</span>
         </div>
 
         <!-- Center: Navigation Links -->
