@@ -11,7 +11,7 @@
         <!-- Center: Navigation Links -->
         <div class="hidden md:flex space-x-6 text-gray-600 text-sm font-medium">
             <RouterLink to="/" class="hover:text-blue-600 transition">Home</RouterLink>
-            <RouterLink to="/friends" class="hover:text-blue-600 transition">Friends</RouterLink>
+            <RouterLink to="/friends" class="hover:text-blue-600 transition">Projects</RouterLink>
             <RouterLink to="/watch" class="hover:text-blue-600 transition">About</RouterLink>
             <RouterLink to="/marketplace" class="hover:text-blue-600 transition">Contact</RouterLink>
         </div>
